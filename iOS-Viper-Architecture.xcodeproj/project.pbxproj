@@ -324,6 +324,7 @@
 				TargetAttributes = {
 					1501C1F81E588B550013EA25 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = V3R3H9N6S6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -331,10 +332,9 @@
 			};
 			buildConfigurationList = 1501C1F41E588B550013EA25 /* Build configuration list for PBXProject "iOS-Viper-Architecture" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
@@ -576,10 +576,10 @@
 			baseConfigurationReference = 603469DB5210F5C501F8FDB5 /* Pods-iOS-Viper-Architecture.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = V3R3H9N6S6;
 				INFOPLIST_FILE = "iOS-Viper-Architecture/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mindorks.iOS-Viper-Architecture";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.miroz007.iOS-Viper-Architecture";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -591,10 +591,10 @@
 			baseConfigurationReference = C0BC9D39498F514FA6DCC853 /* Pods-iOS-Viper-Architecture.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = V3R3H9N6S6;
 				INFOPLIST_FILE = "iOS-Viper-Architecture/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mindorks.iOS-Viper-Architecture";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.miroz007.iOS-Viper-Architecture";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
